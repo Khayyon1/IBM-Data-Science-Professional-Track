@@ -12,8 +12,19 @@ This course is a mix of video lectures and quizzes.
 
 
 # What is Data Science?
+It is a process, it is when you try to validate a hypothesis using a model with data.
+
+It is uncovering the insights and trends behind the data/ the study of data
+
 # What makes someone a Data Scientist?
-# Topics in Data Science
+A data scientist is that unique blend of skills that can both unlock the insights of data and tell a story via the data - Dr.Patil, Chief Data Scientist of the US (2012)
+
+Some one practices this is considered a data scientist regardless of their background.
+
+# How Data Science is saving lives?
+In healthcare, data scientist use predictive analytics developed from data mining, data modeling, statistics, and machine learning to find the best options for patients.
+
+This type of predictive analytics studies the known factors for a disease, including gene markers, associated conditions, and environmental factors. It then recommends appropriate tests, suitabel trials, and any suggested treatments. This woulf allow all physicians to access all the latest information about the disease, treatment and tests tailored to patients on an individual basis.
 # Data Science in Business
 # Report Structure
    ## How big is the document ?
